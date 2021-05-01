@@ -1,0 +1,160 @@
+body {
+  background: whitesmoke;
+  padding: 2rem 0;
+}
+
+.page .container {
+  padding: 25px;
+}
+
+header.main ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: #00308f;
+}
+header.main li {
+  list-style-type: none;
+}
+
+header.main li a {
+  color: white;
+  padding: 0 1.5rem;
+  display: block;
+}
+
+header.main li a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.footer ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: #00308f;
+}
+
+.footer li {
+  list-style-type: none;
+  display: inline;
+}
+
+.footer li a {
+  color: white;
+  padding: 0 1.5rem;
+  display: inline;
+}
+
+.footer li a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.myimage {
+  height: 250px;
+  width: 250px;
+  border-radius: 125px;
+}
+
+.border-hr {
+  background-color: #00308f !important;
+  height: 2px;
+}
+
+.name-head {
+  color: #00308f;
+}
+
+.title {
+  opacity: 0.7;
+}
+
+.info {
+  color: #00308f;
+  font-weight: 700;
+}
+
+.std {
+  vertical-align: middle !important;
+}
+
+.skills-list {
+  list-style-type: none !important;
+}
+
+.skill-head .dashicons-laptop {
+  font-size: 25px;
+}
+
+.card {
+  padding: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0px 2px 10px black;
+}
+
+.tab-content a {
+  text-decoration: none !important;
+  color: #00308f !important;
+}
+
+.tab-content a:hover {
+  text-decoration: none !important;
+  color: #00308f;
+}
+
+.fresher {
+  color: #00308f;
+  text-align: center;
+}
+
+.view-resume {
+  background-color: #00308f;
+  border-color: #00308f;
+}
+
+.view-resume:hover {
+  background-color: #00308f;
+  border-color: #00308f;
+}
+
+.course-card {
+  height: 110px !important;
+}
+
+#myTab .nav-link {
+  color: #00308f;
+  font-weight: 500;
+}
+
+.activity-hr {
+  background-color: #00308f;
+}
+
+.activity a {
+  color: #00308f;
+  text-decoration: none;
+}
+
+.activity a:hover {
+  color: #00308f;
+  text-decoration: none;
+}
+
+.project-detail-div {
+  width: 610px;
+  margin: auto;
+}
+
+.all-project-title a {
+  color: #00308f;
+  text-decoration: none;
+}
+
+.all-project-title a:hover {
+  color: #00308f;
+  text-decoration: none;
+}
